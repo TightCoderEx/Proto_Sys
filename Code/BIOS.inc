@@ -19,10 +19,10 @@
 
 	        DISKIO	equ	19
 	      D_STATUS	equ	 1
-			D_READ	equ	 2
+		D_READ	equ	 2
 	       D_WRITE	equ	 3
 	       D_PARAM	equ	 8
-			GET_DP	equ	52
+		GET_DP	equ	52
 	      EXT_READ	equ	66
 
 	KEYBOARD	equ	22
