@@ -1,4 +1,4 @@
-%include   'include\BIOS.inc'
+%include   'BIOS.inc'
 
   %define ARG0		BP + 4		; ARG0 = Far pointer to ASCIIZ string.
   %define SafeStk	BP - (FrmSize +  7 * 2)
