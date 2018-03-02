@@ -1,4 +1,4 @@
-%include	'include\BIOS.inc'
+%include	'BIOS.inc'
 
 ; REFERENCES -> Intel 64 and IA-32 Architectures ORDER # 325462-O47US June 2013
 
